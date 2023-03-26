@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@saadiaak 
-BrightOlawale
-/
-printf
-Public
-Fork your own copy of BrightOlawale/printf
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-printf/main.h
-@BrightOlawale
-BrightOlawale case S dealt with
-Latest commit 9703f9f on Apr 22, 2022
- History
- 2 contributors
-@BrightOlawale@cynthiaclaire4
-44 lines (39 sloc)  1002 Bytes
-
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
@@ -72,18 +42,3 @@ char *_memcpy(char *dest, char *scr, unsigned int n);
 int print_unsgined_number(unsigned int);
 
 #endif
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-printf/main.h at master · BrightOlawale/printf
